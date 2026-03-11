@@ -30,11 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -92,7 +96,7 @@
               "RelativeDocumentMoniker": "Othello.AI.Random1\\JasenNegamax.cs",
               "ToolTip": "D:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\Othello.AI.Random1\\JasenNegamax.cs",
               "RelativeToolTip": "Othello.AI.Random1\\JasenNegamax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T04:19:20.458Z",
               "EditorCaption": ""
