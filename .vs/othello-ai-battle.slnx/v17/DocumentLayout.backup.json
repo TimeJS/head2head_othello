@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4795427D-8AA5-B1BA-35C1-85B67AEB45C1}|Othello.AI.Random1\\Othello.AI.Random1.csproj|d:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\othello.ai.random1\\jasennegamax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4795427D-8AA5-B1BA-35C1-85B67AEB45C1}|Othello.AI.Random1\\Othello.AI.Random1.csproj|solutionrelative:othello.ai.random1\\jasennegamax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6961DE84-37D8-38E7-D0D8-E30B34269627}|Othello.AI.Random2\\Othello.AI.Random2.csproj|d:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\othello.ai.random2\\random2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6961DE84-37D8-38E7-D0D8-E30B34269627}|Othello.AI.Random2\\Othello.AI.Random2.csproj|solutionrelative:othello.ai.random2\\random2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\Othello.AI.NegaMax\\NegaMaxAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Othello.AI.NegaMax\\NegaMaxAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386A8721-8B77-25DA-4E45-4AC9B721C1F6}|Othello.Contract\\Othello.Contract.csproj|d:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\othello.contract\\iothelloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386A8721-8B77-25DA-4E45-4AC9B721C1F6}|Othello.Contract\\Othello.Contract.csproj|solutionrelative:othello.contract\\iothelloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B24BAC1-79A3-2979-0E18-501225DA6D7A}|Othello.AI.Random3\\Othello.AI.Random3.csproj|d:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\othello.ai.random3\\random3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B24BAC1-79A3-2979-0E18-501225DA6D7A}|Othello.AI.Random3\\Othello.AI.Random3.csproj|solutionrelative:othello.ai.random3\\random3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NegaMaxAI.cs",
+              "DocumentMoniker": "D:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\Othello.AI.NegaMax\\NegaMaxAI.cs",
+              "RelativeDocumentMoniker": "Othello.AI.NegaMax\\NegaMaxAI.cs",
+              "ToolTip": "D:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\Othello.AI.NegaMax\\NegaMaxAI.cs",
+              "RelativeToolTip": "Othello.AI.NegaMax\\NegaMaxAI.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAK4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:09:14.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOthelloAI.cs",
+              "DocumentMoniker": "D:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\Othello.Contract\\IOthelloAI.cs",
+              "RelativeDocumentMoniker": "Othello.Contract\\IOthelloAI.cs",
+              "ToolTip": "D:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\Othello.Contract\\IOthelloAI.cs",
+              "RelativeToolTip": "Othello.Contract\\IOthelloAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T16:36:11.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Random3.cs",
+              "DocumentMoniker": "D:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\Othello.AI.Random3\\Random3.cs",
+              "RelativeDocumentMoniker": "Othello.AI.Random3\\Random3.cs",
+              "ToolTip": "D:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\Othello.AI.Random3\\Random3.cs",
+              "RelativeToolTip": "Othello.AI.Random3\\Random3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:20:22.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Random2.cs",
+              "DocumentMoniker": "D:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\Othello.AI.Random2\\Random2.cs",
+              "RelativeDocumentMoniker": "Othello.AI.Random2\\Random2.cs",
+              "ToolTip": "D:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\Othello.AI.Random2\\Random2.cs",
+              "RelativeToolTip": "Othello.AI.Random2\\Random2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:20:10.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JasenNegamax.cs",
+              "DocumentMoniker": "D:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\Othello.AI.Random1\\JasenNegamax.cs",
+              "RelativeDocumentMoniker": "Othello.AI.Random1\\JasenNegamax.cs",
+              "ToolTip": "D:\\12_schoolprojectrepos\\head2head_othello\\head2head_othello\\Othello.AI.Random1\\JasenNegamax.cs",
+              "RelativeToolTip": "Othello.AI.Random1\\JasenNegamax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:19:20.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
