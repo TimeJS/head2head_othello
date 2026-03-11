@@ -1,0 +1,5 @@
+SpeakerJCGT390Lab4 
+
+For this lab, I implemented Negamax into the AI in order for it to calculate the best move in a game of Orthello. Firstly, it uses the "GetValid" move function that was built into the starter AI to obtain every possible move. Then, it runs through all of those possible moves in comparison to the state of the board. Using negamax and a weight table, it decides the value of individual squares before picking the move. 
+
+My AI is located inside of the "Orthello.Ai.Random1" folder, as it was easier to build off of the first Ai as a start point for development. 
